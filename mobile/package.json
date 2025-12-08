@@ -1,0 +1,15 @@
+{
+  "name": "goodidea-mobile",
+  "dependencies": {
+    "@react-native-community/cli": "^13.6.9",
+    "@solana/mobile-wallet-adapter-protocol": "^2.1.4",
+    "react": "18.2.0",
+    "react-native": "0.74.5",
+    "@solana/web3.js": "^1.95.3"
+  },
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  }
+}
