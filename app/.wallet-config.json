@@ -1,0 +1,20 @@
+{
+  "chains": [
+    {
+      "name": "Solana",
+      "rpc": "https://api.devnet.solana.com",
+      "wallets": ["Phantom", "Solflare"]
+    },
+    {
+      "name": "Ethereum",
+      "rpc": "https://sepolia.infura.io/v3/YOUR_INFURA_KEY",
+      "wallets": ["MetaMask", "WalletConnect"]
+    },
+    {
+      "name": "BNB",
+      "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
+      "wallets": ["MetaMask", "WalletConnect"]
+    }
+  ],
+  "defaultChain": "Solana"
+}
